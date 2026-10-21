@@ -1,0 +1,28 @@
+# Build output
+build/
+out/
+bin/
+
+# Compiled objects, libraries and executables
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.pdb
+*.ilk
+*.d
+
+# Editor and IDE state
+.vscode/
+.idea/
+*.swp
+
+# Binaries built in place next to the sources (named after the question)
+assignment-*/Question*/Question[0-9]
+assignment-*/Question*/*.exe
+assignment-*/Question*/*.out
